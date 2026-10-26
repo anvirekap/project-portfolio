@@ -11,6 +11,7 @@ Honours BSc Computer Science student in French Immersion at the University of Ot
 | **CivicLens** | Report, map, classify, and prioritize community issues; add community confirmations. | Python, FastAPI, SQLite, SQLAlchemy, React, TypeScript, Leaflet | [Source](https://github.com/anvirekap/CivicLens) · [Project notes](projects/civiclens.md) |
 | **Bilingual PDF Summarizer** | Extract text from course PDFs and generate study summaries in English or French. | Python, Streamlit, pypdf, Groq API, deep-translator | [Source](https://github.com/anvirekap/bilingual-pdf-summarizer) · [Project notes](projects/bilingual-pdf-summarizer.md) |
 | **GlassBox** | Explore language-model predictions, temperature, training loss, attention, and embeddings. Hack the Hill III team project. | Python, NumPy, FastAPI, React, TypeScript, Three.js | [Team source](https://github.com/Ghaz-555/Hackathon) · [Project notes](projects/glassbox.md) |
+| **Fact or Fiction** | Real-time multiplayer bluffing game where players join by room code, submit decoy answers, and vote on the truth. | Python, JavaScript, HTML, CSS, HTTP Server, Render | [Source](https://github.com/anvirekap/fact-or-fiction-multiplayer) · [Project notes](projects/fact-or-fiction.md) |
 
 ## About this hub
 
